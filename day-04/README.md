@@ -1,10 +1,10 @@
-# Day 04 - [Topic]
+# Day 04 - User Management and File Permission
 
 ## Objective
 
 What was the goal for today?
 
-User Management and File Permission
+To learn and practice linux user, group and file management
 ---
 
 ## What I Learned
