@@ -22,9 +22,9 @@
 - [x] Day 22
 - [x] Day 23
 - [x] Day 24
-- [ ] Day 25
-- [ ] Day 26
-- [ ] Day 27
-- [ ] Day 28
+- [x] Day 25
+- [x] Day 26
+- [x] Day 27
+- [x] Day 28
 - [ ] Day 29
 - [ ] Day 30
