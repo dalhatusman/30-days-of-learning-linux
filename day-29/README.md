@@ -2,7 +2,7 @@
 
 ## Objective
 
-What was the goal for today? Understand why Linux is the backbone of cloud computing and DevOps, and how it supports automation and scalability.
+What was the goal for today? To understand why Linux is the backbone of cloud computing and DevOps, and how it supports automation and scalability.
 
 ---
 
