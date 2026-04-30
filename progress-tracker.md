@@ -26,5 +26,5 @@
 - [x] Day 26
 - [x] Day 27
 - [x] Day 28
-- [ ] Day 29
-- [ ] Day 30
+- [x] Day 29
+- [x] Day 30
